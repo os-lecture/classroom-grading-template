@@ -1,9 +1,8 @@
 {
-  "org": "113154735-os-autograding-classroom-a857a2",
-  
+  "org": "os-autograding",
   "classrooms": [
     {
-      "name": "os-autograding-classroom-a857a2",
+      "name": "113154735-os-autograding-classroom-a857a2",
       "assignments": ["oskernel"],
       "studentBlacklist": []
     }
