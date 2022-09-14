@@ -1,6 +1,5 @@
 {
   "org": "os-autograding",
-  "updateStep": 2,
   "classrooms": [
     {
       "name": "os-autograding-classroom-a857a2",
