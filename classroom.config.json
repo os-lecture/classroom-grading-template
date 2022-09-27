@@ -1,13 +1,13 @@
 {
-  "org": "os-autograding",
+  "org": "oscomp-kernel-training",
   "classrooms": [
     {
-      "name": "113154735-os-autograding-classroom-a857a2",
-      "assignments": ["oskernel"],
+      "name": "19380377-oscomp-kernel-training",
+      "assignments": ["oscomp-kernel-training"],
       "studentBlacklist": []
     }
   ],
   "website": {
-    "title": "测试评分系统"
+    "title": "OS比赛内核训练排名"
   }
 }
