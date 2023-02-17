@@ -3,7 +3,7 @@
   "classrooms": [
     {
       "name": "123707571-2023s-os-ucore-classroom",
-      "assignments": ["2023S-uCore",{ "branches": ["ch3"] }],
+      "assignments": ["2023S-uCore",{ "branches": ["master"] }],
       "studentBlacklist": []
     }
   ],
