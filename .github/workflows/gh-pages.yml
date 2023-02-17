@@ -33,8 +33,8 @@ jobs:
         run: yarn build
       - name: save data files
         run: |
-          git config user.name Faith
-          git config user.email seventanyb@gmail.com
+          git config user.name hw0505
+          git config user.email 609189030@qq.com
           git add .
           git commit -am "updata"
           git push origin main
