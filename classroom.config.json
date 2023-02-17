@@ -1,9 +1,9 @@
 {
-  "org": "learningOS",
+  "org": "os-lecture",
   "classrooms": [
     {
-      "name": "19380377-oscomp-kernel-training",
-      "assignments": ["oscomp-kernel-training"],
+      "name": "123707571-2023s-os-ucore-classroom",
+      "assignments": ["2023S-uCore"],
       "studentBlacklist": []
     }
   ],
